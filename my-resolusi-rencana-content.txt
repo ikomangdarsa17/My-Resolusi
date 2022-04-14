@@ -1,0 +1,4 @@
+rencana Content
+- Mau buat file Javascript
+- membuat file HTML
+- membuat file CSS
