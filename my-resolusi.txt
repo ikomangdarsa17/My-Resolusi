@@ -4,5 +4,6 @@ My Reolusi
 - Rajin menulias Coding Setiap Hari 2 jam
 - Menambahkan coding baru pada file coding sebelumnya
 - menambahkan file baru fundamental programming
-- menambahkan framework javascript fundamental
-  - vue js dasar
+- menambahkan framework javascript dasar
+  - React js dasar
+
