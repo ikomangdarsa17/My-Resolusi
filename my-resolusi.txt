@@ -3,3 +3,4 @@ My Reolusi
 - Pengelolaan File Coding Hasil belajar
 - Rajin menulias Coding Setiap Hari 2 jam
 - Menambahkan coding baru pada file coding sebelumnya
+- menambahkan file baru fundamental programming
