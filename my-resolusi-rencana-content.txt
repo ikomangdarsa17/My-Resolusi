@@ -1,8 +1,0 @@
-rencana Content
-- Mau buat file Javascript
-- membuat file HTML
-- membuat file CSS
-- Menulis syntax ES6
-- menambahkan framework javascript react js
-- menambahkan javascript fundamental
-- belajar database
