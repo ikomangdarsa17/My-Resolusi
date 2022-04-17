@@ -1,9 +1,9 @@
 My Reolusi
 - Saya Konsisten Belajar Coding Setiap hari 2 Jam
 - Pengelolaan File Coding Hasil belajar
-- Rajin menulias Coding Setiap Hari 2 jam
+- Rajin menulis Coding Setiap Hari 2 jam
 - Menambahkan coding baru pada file coding sebelumnya
 - menambahkan file baru fundamental programming
 - menambahkan framework javascript dasar
   - React js dasar
-
+  - vue js
